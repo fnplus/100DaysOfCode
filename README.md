@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge with #fnplus
 
+This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/100DaysOfCode.svg)](http://hits.dwyl.io/fnplus/100DaysOfCode) people!
+
 ## Contents
 
 - [Rules](rules.md)
@@ -43,5 +45,3 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 - If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to us on Twitter: [@fnplusofficial](https://twitter.com/@fnplusofficial)
 
 - If you like this repo and find it useful, please consider ★ starring it (on top right of the page) and forking it :)
-
-This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/100DaysOfCode.svg)](http://hits.dwyl.io/fnplus/100DaysOfCode) people!
