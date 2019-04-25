@@ -6,8 +6,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/100DaysOfCod
 
 - [Rules](rules.md)
 
-- [Log - click here to see my progress](log.md)
-
 - [FAQ](FAQ.md)
 
 - [Ideas/Projects](https://github.com/fnplus/community-project-ideas)
